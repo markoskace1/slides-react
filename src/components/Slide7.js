@@ -4,7 +4,7 @@ function Slide7() {
   return (
     <>
       {/* SLIDE 7 */}
-      <div className="relative h-screen grid grid-rows-5 py-2">
+      <div id="slide-7" className="relative h-screen grid grid-rows-5 py-2">
         {/* Left section */}
         <div className="flex flex-col space-y-10 mt-14">
           <div className="flex flex-row items-center space-x-8">

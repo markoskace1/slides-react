@@ -4,7 +4,7 @@ function Slide1() {
   return (
     <>
       {/* SLIDE 1 HIGHLIGHTS */}
-      <div className="h-screen grid grid-cols-8 py-2">
+      <div id="slide-1" className="h-screen grid grid-cols-8 py-2">
         <div className="tag-top-left">Highlights</div>
 
         {/* Left section - Image */}

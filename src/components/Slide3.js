@@ -5,7 +5,7 @@ function Slide3() {
     <>
       {/* SLIDE 3 CAREER */}
 
-      <div className="flex flex-col h-screen py-2">
+      <div id="slide-3" className="flex flex-col h-screen py-2">
         <div className="tag-top-left">Career</div>
 
         {/* Cards */}

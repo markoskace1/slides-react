@@ -5,7 +5,7 @@ function Slide4() {
     <>
       {/* SLIDE 4 RESEARCH */}
 
-      <div className="flex h-screen py-2">
+      <div id="slide-4" className="flex h-screen py-2">
         <div className="tag-top-left">Research</div>
 
         <div className="grid grid-cols-2 mt-36 mx-auto max-w-5xl space-x-12">

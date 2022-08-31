@@ -4,7 +4,7 @@ function Slide2() {
   return (
     <>
       {/* SLIDE 2 INDUSTRY */}
-      <div className="relative grid grid-rows-1 h-screen py-2">
+      <div id="slide-2" className="relative grid grid-rows-1 h-screen py-2">
         <div className="tag-top-left mt-2">Industry</div>
 
         {/* Heading */}

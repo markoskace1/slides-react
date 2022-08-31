@@ -4,7 +4,7 @@ function Slide6() {
   return (
     <>
       {/* SLIDE 6 */}
-      <div className="h-screen grid grid-rows-5 py-2">
+      <div id="slide-6" className="h-screen grid grid-rows-5 py-2">
         <div className="tag-top-left text-2xl w-[575px]">
           Contribution to student community
         </div>
